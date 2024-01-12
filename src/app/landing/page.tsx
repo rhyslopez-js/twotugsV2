@@ -13,7 +13,7 @@ function page() {
         <div className='grid grid-cols-1 lg:grid-cols-2 min-h-screen lg:px-20 px-8 gap-12 lg:gap-0 mb-24'>
             <div className='flex flex-col justify-center items-center gap-12'>
                 <div className='lg:w-3/4 flex flex-col gap-4'>
-                    <h1 className='lg:text-5xl text-4xl font-extrabold tracking-wide leading-normal'>UNLEASH THE FLAVORFUL SPIRIT OF <span className='text-[#fb7a5e]'>TWOTUGS</span></h1>
+                    <h1 className='lg:text-5xl text-4xl font-extrabold tracking-wide'>UNLEASH THE FLAVORFUL SPIRIT OF <span className='text-[#fb7a5e]'>TWOTUGS</span></h1>
                     
                     <p className='font-regular'>
                         Explore our diverse lineup of handcrafted brews, each bottle encapsulating the essence of our commitment to quality. 
